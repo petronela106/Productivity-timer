@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Productivity</string>
+    <string name="reset_btn"/>
+    <string name="start_btn" />
+    <string name="timer">60:00</string>
+    <string name="minus_btn" />
+    <string name="plus_btn" />
+</resources>
